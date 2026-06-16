@@ -9,7 +9,7 @@ A single-file, pure frontend portfolio website. No backend, no APIs.
 
 ## Features
 - Dark/Light (black & white) theme toggle — top-right button in the nav
-- Sections: Hero, About, Skills, Experience, Projects, Certificates (13 certs, filterable by issuer), Contact
+- Sections: Hero, About, Skills, Experience, Projects, Certificates , Contact
 - Click any certificate card to open the real certificate image in a full-screen viewer, with download and "open in new tab" options
 - Custom cursor, typewriter animation, scroll reveal animations
 - Fully responsive (mobile-friendly)
